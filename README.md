@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sidrrish
-- 👀 I’m interested in ai/ml
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently building my expertise on Python. 
+- 💞️ I’m looking to collaborate on anything 
+- 📫 How to reach me sidhheswarofficial@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Chickens can't fly. 
 
 <!---
 Sidrrish/Sidrrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
